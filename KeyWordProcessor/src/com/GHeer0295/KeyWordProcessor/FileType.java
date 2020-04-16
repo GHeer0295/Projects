@@ -29,9 +29,11 @@ public class FileType implements Comparable<FileType>{
     public Priority getPriority(){
         return this.priority;
     }
+    
     public int getNumOfKeyWords(){
         return this.numOfKeyWords;
     }
+    
     @Override
     public int compareTo(FileType file){
         return file.numOfKeyWords - this.numOfKeyWords;
