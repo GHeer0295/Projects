@@ -12,7 +12,7 @@ public class Main{
                 return file.getName().endsWith(".txt");
             }
         };
-
+        //Test files have not been uploaded to Github
         File file = new File("data");
         File[] files = file.listFiles(filter);
         ArrayList<FileType> fileList = new ArrayList<>();
