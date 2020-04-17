@@ -1,10 +1,9 @@
-Gurpreet Heer
-gheer0295@gmail.com | (604) – 377 – 2290 
+
 Objective	
 	To leverage my desire to learn, strong work ethic and passion for technology into an internship
 
 Education
-	Simon Fraser University	Burnaby, B.C
+
 •	B.Sc. Computer Science (2nd year)	Sept 2017 – May 2022
 •	Relevant coursework:  Intro to Computing Science and Programming I/II, Data Structures and Algorithms I, Calculus I/II, Discrete Mathematics and Object – Oriented Programming (In Progress)
 
@@ -15,7 +14,7 @@ Technical Skills
 •	Platforms: Windows, Linux, and macOS 
 
 Experience
-	Entrance Automated Systems Inc.	Surrey, B.C 
+
 	IT Assistant 	Jan 2020 – Present
 •	Installed and maintained operating systems
 •	Backed up data and ensured data is secure in cloud storage
@@ -34,9 +33,6 @@ Academic Projects
 •	Created simple and clean code using a test – first method to minimize confusing code
 
 Personal Projects 
-	Web Scraper	Jan 2020
-•	Created a web scraper to get NBA player stats from the NBA website 
-•	Implemented using Java or python
 	
 	Employee Management System	Dec 2019
 •	Implemented for a local business using Python, learned SQL to store information into database
@@ -44,7 +40,6 @@ Personal Projects
 
 
 Leadership
-	Heer Painting Ltd. – Family Business	Surrey, B.C
 	Project Manager	Sept 2017 – Aug 2018   
 •	Took initiative to lead and coordinate first project individually 
 •	Planned and organized project from start to finish with accordance to strict schedule and budget
