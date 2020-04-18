@@ -31,7 +31,6 @@ public class Scraper{
 
     public static boolean validPosting(Posting post){
         if(post.getPrice() <= 0){
-            //setup for garbage collection
             post = null;
             return false;
         }
