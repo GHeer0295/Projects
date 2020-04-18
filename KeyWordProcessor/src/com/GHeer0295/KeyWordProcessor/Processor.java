@@ -13,12 +13,10 @@ public class Processor{
     }
 
     private void addKeyWords() {
-        keyWords.add("java");
-        keyWords.add("python");
-        keyWords.add(" c ");
-        keyWords.add("c++");
-        keyWords.add("gurpreet");
-        keyWords.add("heer");
+        keyWords.add("TEST1");
+        keyWords.add("TEST2");
+        keyWords.add("TEST3");
+        keyWords.add("TEST4");
     }
     public void printAll(){
         for(String s : map.keySet()){
