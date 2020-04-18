@@ -24,7 +24,6 @@ public class Processor{
         }
     }
 
-
     public int findKeyWords(String path) throws IOException {
         RandomAccessFile file = new RandomAccessFile(path, "r");
 
