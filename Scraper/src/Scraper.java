@@ -43,18 +43,13 @@ public class Scraper{
     }
 
     public static void removeDuplicates(ArrayList<Posting> posts){
-        HashSet <Posting> p = new HashSet<>();
+        HashSet<Posting> p = new HashSet<>();
         for(Posting posting : posts){
-            if(!p.contains(posting)){
+            if (!p.contains(posting)) {
                 p.add(posting);
+            } else{
+                posts.remove(posting);
             }
-        }
-        //remove all posting in array
-        posts.clear();
-
-        //add postings back to array with no duplicates
-        for(Posting posting : p){
-            posts.add(posting);
         }
     }
 
