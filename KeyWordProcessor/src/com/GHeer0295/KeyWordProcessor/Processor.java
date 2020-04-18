@@ -5,10 +5,12 @@ import java.io.RandomAccessFile;
 import java.util.*;
 
 public class Processor{
-    private ArrayList<String> keyWords = new ArrayList<>();
-    private HashMap<String, Integer> map = new HashMap<>();
+    private ArrayList<String> keyWords;
+    private HashMap<String, Integer> map;
 
     public Processor() {
+        keyWords = new ArrayList<>();
+        map = new HashMap<>();
         addKeyWords();
     }
 
